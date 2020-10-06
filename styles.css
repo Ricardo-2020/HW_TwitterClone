@@ -1,7 +1,12 @@
-body.background{
+body {
     background-color: rgb(21, 32, 43);
-
 }
 
+/* .list-group-item{
+    background-color: rgb(21, 32, 43);
+} */
+/* .list-group-item-action{
+    color: white);
+} */
 
 
